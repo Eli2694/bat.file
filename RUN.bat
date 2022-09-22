@@ -9,6 +9,7 @@ md DDD
 cd..
 cd CCC
 dir c:\Windows > c:\TEST123\CCC\LIST.TXT
+cd..
 del /Q CCC
-cd/
+cd\
 rmdir /s /q TEST123
